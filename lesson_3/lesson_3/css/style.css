@@ -1,0 +1,65 @@
+@import url("reset.css");
+/*    */
+
+
+.link,
+#p-1,
+#p-2,
+#p-3,
+#p-4{
+	color: rgb(255, 0, 0);
+}
+
+.point,
+.point-2,
+h4{
+	color: rgb(100, 3, 255);
+}
+
+h1,
+h2{
+	color: rgb(3, 79, 8);
+}
+
+div.text,
+.block-2{
+	color: rgb(255, 234, 0);
+}
+
+.text span{
+	color: rgb(8, 202, 17);
+}
+.text-1 ~ p{
+	color: rgb(0, 213, 255);
+}
+
+.paragraf .glory{
+	color: rgb(255, 145, 0);
+}
+.photo + p{
+	color:rgb(0, 213, 255);
+}
+.text-2 > .paragraf-1 > .text-3{
+	color: red;
+}
+.text-2 > p{
+	color: rgb(146, 108, 218);
+}
+
+[class*="_words"] {
+	color: rgb(231, 84, 207);
+}
+.text-3 .text-4 {
+	color: rgb(248, 180, 77);
+}
+.glory-2{
+ color: blueviolet;
+}
+
+div.text-4{
+	color: rgb(82, 255, 76);
+}
+
+.text-4 .text-6{
+	color: rgb(240, 26, 215);
+}
