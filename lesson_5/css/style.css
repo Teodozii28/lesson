@@ -1,0 +1,94 @@
+@import url("reset.css");
+
+body{
+	font-family: "Poppins", sans-serif;
+}
+.block,
+.block-2,
+.block-4{
+	max-width: 816px;
+	margin:0 auto;
+}
+
+.glory,.glory-1{
+	font-weight: 700;
+	font-size: 25px;
+	color: #212529;
+	line-height:1.6;
+	margin-bottom: 40px;
+}
+.block-1,
+.block-3,
+.block-4{
+	font-weight: 300;
+	font-size: 14px;
+	line-height:1.79;
+	color: #6C757D;
+	margin-bottom: 80px;
+}
+.glory{
+	max-width: 400px;
+}
+.glory-1{
+	max-width: 605px;
+}
+
+.paragraf,
+.paragraf-1,
+.paragraf-2,
+.paragraf-3,
+.paragraf-4{
+	margin-bottom: 40px;
+}
+
+.foto{
+	font-size: 0px;
+	max-width: 1240px;
+	margin: 0 auto 80px;
+}
+.foto img{
+	font-size: 16px;
+	max-width: 100%;
+}
+.picture{
+	margin-right: 30px;
+}
+
+.glory-2 {
+	background-color: #6C757D;
+	color: #ffffff;
+	font-size: 35px;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	max-width: 1240px;
+	margin: 0 auto 40px;
+	padding: 20px;
+}
+.glory-3,.glory-4 {
+	color: #6C757D;
+	margin: 0 auto 50px;
+	font-size: 25px;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	max-width: 816px;
+	padding: 10px;
+}
+
+.block-6,.block-7{
+	background-color: #6C757D;
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 1.6;
+	font-weight: 300;
+	max-width: 816px;
+	height: 300px;
+	margin: 0 auto 40px;
+}
+.block-6{
+	overflow: hidden;
+}
+.block-7{
+	overflow: auto;
+}
