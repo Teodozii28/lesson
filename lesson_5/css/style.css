@@ -1,0 +1,79 @@
+@import url("reset.css");
+
+body{
+	font-family: "Poppins", sans-serif;
+}
+.block{
+	margin-top: 50px;
+		margin-bottom: 50px;
+}
+.block-text{
+	max-width: 1270px;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.block-1{
+	max-width: 816px;
+	margin: 0 auto;
+	font-weight: 300;
+	font-size: 14px;
+	line-height:1.79;
+	color: #6C757D;
+	margin-bottom: 80px;
+}
+.glory{
+	font-weight: 700;
+	font-size: 25px;
+	color: #212529;
+	line-height:1.6;
+	margin-bottom: 40px;
+}
+p{
+	margin-bottom: 30px;
+}
+
+.image{
+	max-width: 100%;
+	margin-bottom: 80px;
+}
+.image-1{
+	font-size: 0px;
+	margin-bottom: 80px;
+}
+.image-1 img{
+	max-width: 100%;
+}
+.picture{
+	margin-right: 30px;
+}
+
+.basic{
+	background-color: #6C757D;
+	color: #ffffff;
+	font-size: 35px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px;
+}
+.basic-1,
+.basic-2{
+	color: #6C757D;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 10px;
+	
+}
+.text,
+.text-1{
+	background-color: #6C757D;
+	color: #ffffff;
+	padding: 10px;
+	height: 300px;
+}
+.text{
+	overflow: hidden;
+}
+.text-1{
+	overflow: auto;
+}
