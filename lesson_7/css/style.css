@@ -1,0 +1,134 @@
+@import url("reset.css");
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap);
+
+@import url(https://fonts.googleapis.com/css?family=Inter:500,600,700&display=swap);
+
+/* -------------------------------- */
+.basic{
+	max-width: 1440px;
+	margin:0 auto;
+}
+.conteiner{
+	background: #3a5969 url("../img/bg01.png") center/cover no-repeat;
+	min-height: 600px;
+	margin-bottom: 20px;
+}
+.block {
+	font-family: "Poppins", sans-serif;
+	padding: 330px 20px 100px 100px;
+	color: #F8F9FA;
+	max-width: 605px;
+}
+.paragraf {
+	color: #E5E5E5;
+	font-weight: 300;
+	font-size: 12px;
+	line-height: 1.67;
+	margin-bottom: 15px;
+}
+.glory{
+	margin-bottom: 15px;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 1.6;
+}
+/* -------------------------------- */
+.conteiner-1{
+	background: #E6ECFC url("../img/bg02.png") center/cover no-repeat;
+	min-height: 560px;
+	font-size: 0;
+	margin-bottom: 25px;
+}
+.block-2 {
+	display: inline-block;
+	font-family: "Inter" ,sans-serif;
+	max-width: 50%;
+	padding: 145px 15px 146px 135px;
+	margin-right: 161px;
+
+}
+.price {
+	color: #3056D3;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 1.33;
+	margin-bottom: 13px;
+}
+.glory-2 {
+	color: #212B36;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.25;
+	margin-bottom: 15px;
+}
+.paragraf-1 {
+	color: #637381;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 35px;
+}
+.button {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #ffffff;
+	display: inline-block;
+	padding: 10px 30px;
+	background: #3056D3;
+	border-radius: 30px;
+}
+img{
+	margin-top: 82px;
+}
+/* ------------------------------------------- */
+.conteiner-2{
+		background:#ebeced url("../img/repeat.png") repeat;
+}
+.fon{
+	margin-left: 100px;
+	padding-top: 40px;
+
+}
+.fon ul{
+	font-size: 16px;
+	font-family: "Inter" ,sans-serif;
+	margin-bottom: 60px;
+	font-weight: 700;
+	color: #637381;
+}
+ul li{
+	margin-bottom: 18px;
+}
+.list li{
+background: url("../img/li/01.png") 0 4px / 8px no-repeat;
+padding-left: 18px;
+
+}
+.list-1 li{
+	background: url("../img/li/02.png") 0 0 / 20px no-repeat;
+	padding-left: 30px;
+	min-height: 20px;
+	padding-top: 2px;
+}
+.list-2 li{	background: url("../img/li/03.png") 0 0 / 20px no-repeat;
+	padding-left: 30px;
+	min-height: 20px;
+	padding-top: 2px;
+}
+.list-3 li{	background: url("../img/li/04.png") 0 0 / 20px no-repeat;
+	padding-left: 30px;
+	min-height: 20px;
+	padding-top: 2px;
+}
+.list-4 li{	background: url("../img/li/05.png") 0 0 / 20px no-repeat;
+	padding-left: 30px;
+	min-height: 20px;
+	padding-top: 2px;
+}
+.list-5 li{	background: url("../img/li/06.png") 0 1px / 18px no-repeat;
+	padding-left: 28px;
+	min-height: 20px;
+	padding-top: 1px;
+}
